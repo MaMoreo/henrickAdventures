@@ -1,0 +1,599 @@
+sprite_sheet_final.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cero
+  rotate: false
+  xy: 1738, 1717
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+corazonesd
+  rotate: false
+  xy: 1910, 458
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+sonidoNO
+  rotate: false
+  xy: 956, 554
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+cruzno
+  rotate: false
+  xy: 1910, 150
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+uno
+  rotate: false
+  xy: 1708, 281
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+derecha
+  rotate: false
+  xy: 1566, 1438
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+comenzarSI
+  rotate: false
+  xy: 1214, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+cuatro
+  rotate: false
+  xy: 2011, 295
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+ventanaconfirmacion
+  rotate: false
+  xy: 784, 1266
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+nivelvidaf
+  rotate: false
+  xy: 1416, 1818
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+nivelvidaa
+  rotate: false
+  xy: 492, 1925
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+siete
+  rotate: false
+  xy: 1680, 490
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+nivelvueloc
+  rotate: false
+  xy: 1910, 481
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+corazona
+  rotate: false
+  xy: 1951, 1308
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+nivelvuelof
+  rotate: false
+  xy: 1042, 661
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+continuarNO
+  rotate: false
+  xy: 608, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvidaj
+  rotate: false
+  xy: 1708, 109
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+musicaNO
+  rotate: false
+  xy: 1738, 1610
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+castillo
+  rotate: false
+  xy: 1273, 554
+  size: 750, 710
+  orig: 750, 710
+  offset: 0, 0
+  index: -1
+nivelvidae
+  rotate: false
+  xy: 1416, 1859
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+cabeza
+  rotate: false
+  xy: 1910, 253
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+colmilloA
+  rotate: false
+  xy: 1959, 332
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+comenzarNO
+  rotate: false
+  xy: 1560, 1889
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvuelod
+  rotate: false
+  xy: 1042, 683
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+abajo
+  rotate: false
+  xy: 1768, 1717
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+ocho
+  rotate: false
+  xy: 1985, 295
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+continuarSI
+  rotate: false
+  xy: 406, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+cajetinvida
+  rotate: false
+  xy: 1910, 1308
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+botellavuelo
+  rotate: false
+  xy: 1959, 374
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+sonidoSI
+  rotate: false
+  xy: 754, 554
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvidag
+  rotate: false
+  xy: 1536, 494
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+libro
+  rotate: false
+  xy: 1910, 332
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+nivelvidab
+  rotate: false
+  xy: 348, 1925
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+salirNO
+  rotate: false
+  xy: 1708, 2
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+opcionesNO
+  rotate: false
+  xy: 1708, 429
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvuelog
+  rotate: false
+  xy: 1158, 657
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+colmilloB
+  rotate: false
+  xy: 1910, 416
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+cinco
+  rotate: false
+  xy: 2008, 369
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+cajetinvuelo
+  rotate: false
+  xy: 2004, 187
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+dientes
+  rotate: false
+  xy: 2004, 146
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+salirSI
+  rotate: false
+  xy: 1536, 174
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+tres
+  rotate: false
+  xy: 1680, 453
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+nivelvidak
+  rotate: false
+  xy: 898, 661
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+transformarNO
+  rotate: false
+  xy: 1738, 150
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+jugarNO
+  rotate: false
+  xy: 204, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+reloj
+  rotate: false
+  xy: 2012, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+arriba
+  rotate: false
+  xy: 1738, 1438
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+cajetinvacio
+  rotate: false
+  xy: 1910, 1349
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+corazonesb
+  rotate: false
+  xy: 1910, 1431
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+transformarSI
+  rotate: false
+  xy: 1536, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+pergamino
+  rotate: false
+  xy: 1996, 104
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+jugarSI
+  rotate: false
+  xy: 2, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+volverSI
+  rotate: false
+  xy: 1762, 1889
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvueloe
+  rotate: false
+  xy: 1144, 679
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+cajetindientes
+  rotate: false
+  xy: 1910, 1390
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 2, 1266
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+seis
+  rotate: false
+  xy: 2012, 45
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+izquierda
+  rotate: false
+  xy: 1536, 281
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+volverNO
+  rotate: false
+  xy: 2, 1925
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+fondojuego
+  rotate: false
+  xy: 2, 714
+  size: 1269, 550
+  orig: 1269, 550
+  offset: 0, 0
+  index: -1
+nivelvidah
+  rotate: false
+  xy: 1536, 453
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+opcionesfondo
+  rotate: false
+  xy: 754, 2
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+nivelvidac
+  rotate: false
+  xy: 204, 1925
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+nivelvueloa
+  rotate: false
+  xy: 1910, 525
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+conectarNO
+  rotate: false
+  xy: 1012, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+colmilloC
+  rotate: false
+  xy: 1910, 374
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+musicaSI
+  rotate: false
+  xy: 1566, 1782
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvidal
+  rotate: false
+  xy: 754, 661
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+opcionesSI
+  rotate: false
+  xy: 1708, 322
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+fantasmatransparente
+  rotate: false
+  xy: 1910, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ajo
+  rotate: false
+  xy: 1985, 253
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+corazonesc
+  rotate: false
+  xy: 1959, 416
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+botellavida
+  rotate: false
+  xy: 1985, 439
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+botonNO
+  rotate: false
+  xy: 1738, 1266
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+direccion
+  rotate: false
+  xy: 1566, 1266
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: 0
+nueve
+  rotate: false
+  xy: 2012, 481
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+nivelvuelob
+  rotate: false
+  xy: 1910, 503
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+luzcastillo
+  rotate: false
+  xy: 2, 2
+  size: 750, 710
+  orig: 750, 710
+  offset: 0, 0
+  index: -1
+botonSI
+  rotate: false
+  xy: 1566, 1610
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+veneno
+  rotate: false
+  xy: 1910, 1266
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dos
+  rotate: false
+  xy: 2008, 332
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+nivelvidai
+  rotate: false
+  xy: 1852, 109
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+conectarSI
+  rotate: false
+  xy: 810, 1818
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+nivelvidad
+  rotate: false
+  xy: 1416, 1900
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+cruzsi
+  rotate: false
+  xy: 1158, 554
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1

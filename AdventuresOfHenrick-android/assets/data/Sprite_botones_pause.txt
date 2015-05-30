@@ -1,0 +1,116 @@
+Sprite_botones_pause.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titulo
+  rotate: false
+  xy: 2, 1106
+  size: 580, 550
+  orig: 580, 550
+  offset: 0, 0
+  index: -1
+jugarSI
+  rotate: false
+  xy: 784, 430
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+opcionesNO
+  rotate: false
+  xy: 784, 323
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+continuarSI
+  rotate: false
+  xy: 784, 644
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+cruzno
+  rotate: false
+  xy: 842, 1072
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+salirSI
+  rotate: false
+  xy: 784, 2
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+continuarNO
+  rotate: false
+  xy: 784, 751
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+confirmacioncompleta
+  rotate: false
+  xy: 2, 1658
+  size: 450, 346
+  orig: 450, 346
+  offset: 0, 0
+  index: -1
+conectarNO
+  rotate: false
+  xy: 784, 965
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+jugarNO
+  rotate: false
+  xy: 784, 537
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+opcionesSI
+  rotate: false
+  xy: 784, 216
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+conectarSI
+  rotate: false
+  xy: 784, 858
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+menucompleto
+  rotate: false
+  xy: 2, 2
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+cruzsi
+  rotate: false
+  xy: 784, 1072
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+fondomenu
+  rotate: false
+  xy: 2, 554
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+salirNO
+  rotate: false
+  xy: 784, 109
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1

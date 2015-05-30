@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="worldmaptileset1" tilewidth="16" tileheight="16">
+  <image source="worldmaptileset1.png" width="384" height="384"/>
+ </tileset>
+ <layer name="background" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmDdPxDAYhi+/gLJQFybKRlluomyUBRaQQKIjwQISSHT+GO1ghY3OhoCFP0CZeBdElDgXx+dzid5HeuSc5S9f9NlOTi4UCCGEEEKITdqCf8N90evwGJnrpHsTdaZRxxmJWsqOqwazyDsH5+ECXIRLcBmueLgOkvZCUl/WVpSHxPmGPyljNlHDLYk6yo6TyZmVbeTdgbtwD+7DA3gIjzxcA+F1W+T+iGHqfViHe9UbrpGNnL6R5f9VNK5cf14w9T7sxL26DNdOR85P+GUwzjSi9axjf+R93+hmEPUZMlwjHTlrEF+rcA/VONNwf5BKaMe8dijMrWqcaYqSzxhd339x0fi0fpIv+jGvAwpzqxpHiE9MYo1PKaxz1ThCfGIda3xDYZ2rxummkjPuapyP66IBtW2ETbAZtsBWB+pN/EJ0xj2O3xNBvJWJJSRPiM64ZfeHjTN5QkwiOuNexe+1IN7KxBLiGt2wB/bCPsvPQohrDMMROArHLD+Ly3wkfOveBf3H6DuBp/AMnsMSvICXGsaT6vAiqLVL348reB1qbeZOa8txgzrfwjt4Dx/gI3yCz4I5yDqemMOl78crfAu1NnOntYRE+QVFbHJY
+  </data>
+ </layer>
+ <layer name="foreground" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmllSGzEQhmXICwVOeCXhxRASroCzcQV2rhDIBldhuUSWS0B4Y31luQM+Af8Uo0KInkWLJXnor+ovS7JHao/V6tZYQjBMc7jN1dPKDMMIMdKKbQHDpAv7Rzp0Wveacnhl/HLrub/vuX5AP6FfnvtvMh3H+e16PfMUH/HjFDqDzt27enZkc3oO6uavLqj9dD36yig0BrWhl9AraNzhc4NEFj82oW/i8bo/6Kh5R8q5h6tPFMGxhHFFrneh17xOvr53Pa/zKnOtB/VrDMYcKhZle5AtaDuiXSnRr5hRRFksCZ0TNTEHOxHh9xgp50SuhPaP0OMxjClqvmMjm766BW0MU8VxLhkb1bKMkxfRrGOahGnuFSoH3cFauQvtQfu8bjYG/Tm2y+tzjqm/8b3/QH+hf57vQRZrqJjTNBZw3xahA5QPDeq24zDhOMD9PoT+Q0cR7n3Vs7yi902vq/v/1Vfcg42W2RlUec0lylcG9bpIW+R1VG4RA5P8Jvu6Q9Aw9KL/pnnjEoZfQdfQTQT/SO0/OrlGyzkZ85y2ema8p9g2jfJbaAZ6B72PZJ9uw6x4ON+uKrN9AnoNvYEmK/ql/N+2TrXryPepz+rxw8Umm/1Ras9VTdf2kEj/+IDyR+gT9Bn6IsLEE30M3YZ54eesIuX/tnWqXaesHz1+mNhBrR+mpOYfKef40rYllJehFWgVWhNh4ok+hm7DuvDjH5T/29apdh0f41B1av0wJaZ/UPFvEPyjzvzxkY9UxQvq9/dxlpfyf9s61a7jYxyqTq0fpmT75qL9NrXHViXby/bvZft4Kv7J/EqfQ2OR1VZsqzN/6sb9qnyhLF5Qv7/NsxS9fgf1etvw
+  </data>
+ </layer>
+ <layer name="object" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+</map>

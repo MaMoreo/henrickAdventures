@@ -1,0 +1,102 @@
+situacionycuento.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oscuridadB
+  rotate: false
+  xy: 784, 723
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+viAboC
+  rotate: false
+  xy: 2, 927
+  size: 576, 107
+  orig: 576, 107
+  offset: 0, 0
+  index: -1
+oscuridadA
+  rotate: false
+  xy: 2, 1037
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+viA
+  rotate: false
+  xy: 784, 2
+  size: 780, 719
+  orig: 780, 719
+  offset: 0, 0
+  index: -1
+viAboA
+  rotate: false
+  xy: 843, 1922
+  size: 576, 107
+  orig: 576, 107
+  offset: 0, 0
+  index: -1
+viBboB
+  rotate: false
+  xy: 2, 723
+  size: 643, 202
+  orig: 643, 202
+  offset: 0, 0
+  index: -1
+castilloluz
+  rotate: false
+  xy: 1566, 590
+  size: 261, 445
+  orig: 261, 445
+  offset: 0, 0
+  index: -1
+viB
+  rotate: false
+  xy: 2, 2
+  size: 780, 719
+  orig: 780, 719
+  offset: 0, 0
+  index: -1
+castillo
+  rotate: false
+  xy: 2, 1589
+  size: 261, 445
+  orig: 261, 445
+  offset: 0, 0
+  index: -1
+cementerioluz
+  rotate: false
+  xy: 1566, 2
+  size: 367, 292
+  orig: 367, 292
+  offset: 0, 0
+  index: -1
+cementerio
+  rotate: false
+  xy: 1566, 296
+  size: 367, 292
+  orig: 367, 292
+  offset: 0, 0
+  index: -1
+viBboA
+  rotate: false
+  xy: 265, 1589
+  size: 638, 331
+  orig: 638, 331
+  offset: 0, 0
+  index: -1
+viAboB
+  rotate: false
+  xy: 265, 1922
+  size: 576, 107
+  orig: 576, 107
+  offset: 0, 0
+  index: -1
+situacion
+  rotate: false
+  xy: 905, 1275
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1

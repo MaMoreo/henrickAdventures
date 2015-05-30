@@ -1,0 +1,60 @@
+basecuento.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+derverdeon
+  rotate: false
+  xy: 902, 2
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+Fondocuentoflechas
+  rotate: false
+  xy: 2, 554
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+izqgris
+  rotate: false
+  xy: 902, 58
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+derverdeoff
+  rotate: false
+  xy: 784, 2
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+izqrojooff
+  rotate: false
+  xy: 784, 114
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+dergris
+  rotate: false
+  xy: 784, 58
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+Fondocuento
+  rotate: false
+  xy: 2, 2
+  size: 780, 550
+  orig: 780, 550
+  offset: 0, 0
+  index: -1
+izqrojoon
+  rotate: false
+  xy: 902, 114
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1

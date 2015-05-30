@@ -1,0 +1,46 @@
+mapasituacion.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oscuridad
+  rotate: false
+  xy: 2, 2
+  size: 750, 710
+  orig: 750, 710
+  offset: 0, 0
+  index: -1
+situacioncompleto
+  rotate: false
+  xy: 754, 2
+  size: 750, 710
+  orig: 750, 710
+  offset: 0, 0
+  index: -1
+castilloluz
+  rotate: false
+  xy: 2, 1283
+  size: 341, 571
+  orig: 341, 571
+  offset: 0, 0
+  index: -1
+castillo
+  rotate: false
+  xy: 1506, 710
+  size: 341, 571
+  orig: 341, 571
+  offset: 0, 0
+  index: -1
+cementerioluz
+  rotate: false
+  xy: 1506, 356
+  size: 459, 352
+  orig: 459, 352
+  offset: 0, 0
+  index: -1
+cementerio
+  rotate: false
+  xy: 1506, 2
+  size: 459, 352
+  orig: 459, 352
+  offset: 0, 0
+  index: -1

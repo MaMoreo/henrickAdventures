@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="90" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="worldmaptileset1" tilewidth="16" tileheight="16">
+  <image source="worldmaptileset1.png" trans="550000" width="384" height="384"/>
+  <tile id="192">
+   <properties>
+    <property name="type" value="stone"/>
+   </properties>
+  </tile>
+  <tile id="193">
+   <properties>
+    <property name="type" value="stone"/>
+   </properties>
+  </tile>
+  <tile id="216">
+   <properties>
+    <property name="type" value="stone"/>
+   </properties>
+  </tile>
+  <tile id="217">
+   <properties>
+    <property name="type" value="stone"/>
+   </properties>
+  </tile>
+  <tile id="336">
+   <properties>
+    <property name="type" value="breakablewall"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlUtuwjAURZNhO6HtJvhsop9hC0yLBHsoEmyAQr87KP0B+2ExZNLCiINEpMhyhRyculLvkY4cPdkv9suTE0VC+OUyjqIrrGMDm3HoHQkh/jpt7omO7oqd7FunHmv7qvNOVCchhLDzhd+hNxGYBSY5RhdK/IOO/vl/6IDzH8buowtl5lcsa5a48nKKYnP6YNOf862LjNlYYsx37edTanxmqfMxsRPPfV5ETh+YfZrW8af+zdPP18xvWdZUidUy8Tue7/EBH/EJnx3fZeZMGRC7xSGOAnwH89416+2jn2/I17Wc7ZzYRSb+zvMHfuIEpzhzrImZM+WF2Bhf8S1AnV3v4zz9LIQQ4vdYA6gOP2Q=
+  </data>
+ </layer>
+ <layer name="foreground" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlstOAkEQRdnyJlHYAwokiHtR0QRxrzwk4fEDiIpfMJ/u2ZCYSYd0TTqWA3WTs6g73XUr6WRSmYzJZDKZTKerDbzDFj7gE75gB98Bvu/rU9IZnEMVasqzHLO6cAU9uFae5Zg1hCcYwbPiHJtfHPrnpFULWMIK1sqzpFF5KEARSlCGisMrODyTySSX5q6ThdwfZ2pJc9epQ0NwPs3vornr3EBfcF76Lv9JmrvOC7wKzkvfxUeuneRQXXH0wIt87obIcu1W0lqakSQv7l3AJbSg7VF3HHPhRT53Q2Q1A/SVZiTJi3t3cA8DePCoHx1z4UU+d0Nk3QboK81Ikhf3JjCFGbx51HPHXHiRz90QWeMAfaUZSfLi3g+HzFf8
+  </data>
+ </layer>
+ <layer name="object" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEJgEAMRNFsBQrag4L2oF1oF273CnpwSvASAuY/yH34p5gB+OrWPdEjEuiKWV+iV/zfpMYznQEAQEKn7ooekUCjX7Pl33Q3qPFIZ3eLGq90drep8U5nd4caVzoDQHovlI0G7g==
+  </data>
+ </layer>
+</map>
