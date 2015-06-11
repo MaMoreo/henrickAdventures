@@ -1,8 +1,5 @@
 package com.digitalwolf.world;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.badlogic.gdx.maps.MapProperties;
 import com.badlogic.gdx.maps.tiled.TiledMap;
 import com.badlogic.gdx.maps.tiled.TiledMapTileLayer;
@@ -17,24 +14,13 @@ import com.digitalwolf.creatures.Henrick;
 import com.digitalwolf.creatures.Henrick.Estado;
 import com.digitalwolf.creatures.Snake;
 import com.digitalwolf.creatures.Spring;
-import com.digitalwolf.gamedata.DoorData;
-import com.digitalwolf.gamedata.DragonData;
-import com.digitalwolf.gamedata.EggData;
-import com.digitalwolf.gamedata.FlightBottleData;
-import com.digitalwolf.gamedata.GameData;
-import com.digitalwolf.gamedata.GemData;
-import com.digitalwolf.gamedata.KeyData;
-import com.digitalwolf.gamedata.LifeBottleData;
-import com.digitalwolf.gamedata.SnakeData;
-import com.digitalwolf.gamedata.SpringData;
+import com.digitalwolf.gamedata.*;
 import com.digitalwolf.screens.GameScreen;
 import com.moribitotech.mtx.settings.AppSettings;
-import com.mtx.scene2dactors.Door;
-import com.mtx.scene2dactors.Egg;
-import com.mtx.scene2dactors.Gem;
-import com.mtx.scene2dactors.Key;
-import com.mtx.scene2dactors.Teeth;
-import com.mtx.scene2dactors.TestActorImpl;
+import com.mtx.scene2dactors.*;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class World {
 
@@ -69,7 +55,7 @@ public class World {
 	public ArrayList<Snake> snakes;
 	public ArrayList<Spring> springs;
 	public List<Egg> eggs;
-	public List<Gem> gems;
+	public List<Ajo> ajos;
 	public List<Teeth> teeth;
 	public List<Teeth> flightBottles;
 	public List<Teeth> lifeBottles;
@@ -173,7 +159,8 @@ public class World {
 		placeLifeBottle();
 
 		// PLACE THE GEMS HERE
-		gems = new ArrayList<Gem>();
+		ajos = new ArrayList<Ajo>();
+        //garlics = new ArrayList<Teeth>();
 		gemPosition = GemData.getGemPosition(levelID);
 		numTotalGems = GemData.getGemPosition(levelID).length;
 		placeGems();
@@ -205,25 +192,35 @@ public class World {
 	}
 
 	private void placeGems() {
-		// TODO Auto-generated method stub
 		for (int i = 0; i < gemPosition.length; i++) {
-			Gem gem1 = new Gem(Gem.width, Gem.height, true);
-			gem1.setOrigin(0, 0);
-			gem1.setPosition(gemPosition[i][0], gemPosition[i][1]);
-			gem1.setTextureRegion(Assets.snake_gem, true);
-			gems.add(gem1);
+			Ajo ajo = new Ajo(Ajo.width, Ajo.height, true);
+			ajo.setOrigin(0, 0);
+			ajo.setPosition(gemPosition[i][0], gemPosition[i][1]);
+			ajo.setTextureRegion(Assets.snake_gem, true);
+			ajos.add(ajo);
 		}
 	}
 
+    /**
+     * Coloca the Garlics.
+     */
+    /*private void placeGems() {
+        for (int i = 0; i < gemPosition.length; i++) {
+            Teeth ajo = new Teeth(true);
+            ajo.setOrigin(0, 0);
+            ajo.setPosition(gemPosition[i][0], gemPosition[i][1]);
+            ajo.setTextureRegion(Assets.snake_gem, true);
+            garlics.add(ajo);
+        }
+    }*/
+
 	private void placeDoor() {
-		// TODO Auto-generated method stub
 		door.setOrigin(0, 0);
 		door.setPosition(doorPosition[0][0], doorPosition[0][1]);
 		door.setTextureRegion(Assets.door, true);
 	}
 
 	private void placeKey() {
-		// TODO Auto-generated method stub
 		key.setOrigin(0, 0);
 		key.setPosition(keyPosition[0][0], keyPosition[0][1]);
 		key.setTextureRegion(Assets.key, true);
@@ -499,9 +496,8 @@ public class World {
 	}
 
 	private void checkCollisionsPlayervsGems(float deltaTime) {
-		// TODO Auto-generated method stub
-		for (int j = 0; j < gems.size(); j++) {
-			Gem e = (Gem) gems.get(j);
+		for (int j = 0; j < ajos.size(); j++) {
+			Ajo e = (Ajo) ajos.get(j);
 			Rectangle gemBounds = new Rectangle(e.getX(), e.getY(),
 					e.getWidth(), e.getHeight());
 
@@ -510,10 +506,26 @@ public class World {
 				score += 20;
 				gemsPummaHave++;
 				e.visible = false;
-				gems.remove(e);
+				ajos.remove(e);
 			}
 		}
 	}
+
+    /*private void checkCollisionsPlayervsGems(float deltaTime) {
+        for (int j = 0; j < garlics.size(); j++) {
+            Teeth e =  garlics.get(j);
+            Rectangle gemBounds = new Rectangle(e.getX(), e.getY(),
+                    e.getWidth(), e.getHeight());
+
+            if (henrick.getBounds().overlaps(gemBounds)) {
+                listener.grabgem();
+                score += 20;
+                gemsPummaHave++;
+                e.visible = false;
+                garlics.remove(e);
+            }
+        }
+    }
 
 	/**
 	 * Colision del jugador con objeto Dientes

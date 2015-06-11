@@ -11,7 +11,8 @@ public class Main {
 		cfg.useGL20 = true;
 		cfg.width = 800;
 		cfg.height = 480;
-		
+
+        //This is just a comment
 		new LwjglApplication(new AdventuresOfHenrick(), cfg);
 	}
 }

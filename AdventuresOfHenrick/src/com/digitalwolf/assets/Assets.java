@@ -513,7 +513,7 @@ public class Assets {
 		cajetinSangre = getSpriteAtlasFinal01().findRegion("cajetinvida");
 
 		congrats_screen = getSpriteAtlas().findRegion("congrats_screen");
-		snake_gem = getSpriteAtlas().findRegion("snake_gem");
+        snake_gem = getSpriteAtlasFinal01().findRegion("ajo");
 
 		health_bar = getSpriteAtlas().findRegion("health_bar");
 		stone = getSpriteAtlas().findRegion("stone");

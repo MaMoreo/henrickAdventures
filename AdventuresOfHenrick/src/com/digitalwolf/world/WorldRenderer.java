@@ -9,8 +9,8 @@ import com.digitalwolf.creatures.Henrick;
 import com.digitalwolf.creatures.Snake;
 import com.digitalwolf.creatures.Spring;
 import com.digitalwolf.screens.GameScreen;
+import com.mtx.scene2dactors.Ajo;
 import com.mtx.scene2dactors.Egg;
-import com.mtx.scene2dactors.Gem;
 import com.mtx.scene2dactors.TestActorImpl;
 
 public class WorldRenderer {
@@ -86,12 +86,22 @@ public class WorldRenderer {
 	public void renderGems(float delta) {
 		if(GameScreen.state == GameScreen.GAME_RUNNING){
 		batch.begin();
-		for(Gem thisGem:world.gems){
+		for(Ajo thisGem:world.ajos){
 			thisGem.draw(batch,1.0f);
 		}
 		batch.end();
 		}
 	}
+/*
+    public void renderGems(float delta) {
+        if(GameScreen.state == GameScreen.GAME_RUNNING){
+            batch.begin();
+            for(Teeth thisGem:world.garlics){
+                thisGem.draw(batch,1.0f);
+            }
+            batch.end();
+        }
+    }*/
 	
 	public void renderTeeth(float delta) {
 		if(GameScreen.state == GameScreen.GAME_RUNNING){
